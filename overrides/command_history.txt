@@ -1,0 +1,28 @@
+/kill @e
+/help
+/hpv 785f2dce-95db-4f18-b9f0-750bea457f81
+/hpv @e
+/hpv CUA114514
+/gamemode spectator
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/help
+/gamemode survival
+/gamemode creative
+/help ai
+/neko help
+/aids help
+/toneko help
+/tonekoadmin help
+/tonekoadmin config
+/tonekoadmin config set
+/l 114514
+/startsession 114514
+/res create cuav
+/res create cuavv
+/res set cuavv
+/l 11454
+/l 114514
+/res tp cuavv
+/res tp xht
