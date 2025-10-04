@@ -1,0 +1,91 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21.1"
+    },
+    {
+      "id": "fabric",
+      "version": "0.17.2"
+    }
+  ],
+  "author": "cua",
+  "description": "",
+  "fileApi": "https://raw.githubusercontent.com/2233qazwsx0/toNeko-zheng-he-bao/refs/heads/main",
+  "files": [
+    {
+      "hash": "10d5c7cf5fb309513b4f68b85b1e0d9dccbec9ac",
+      "path": "mods/fabric-api-0.116.6+1.21.1.jar"
+    },
+    {
+      "hash": "5091a26b067eede32112ef3a5def89b656573ef4",
+      "path": "mods/ctLibMod-0.1.13.jar"
+    },
+    {
+      "hash": "3d98403acfbf4cb4be82610140fe575a8b47c13a",
+      "path": "mods/JustARod-0.1.12.jar"
+    },
+    {
+      "hash": "6213120772192040a0aeb5c7cfe330c068605b1f",
+      "path": "mods/modmenu-11.0.3.jar"
+    },
+    {
+      "hash": "af621dfe12ad66833ffbafe1535015c54c636a31",
+      "path": "mods/CustomSkinLoader_Fabric-14.25.jar"
+    },
+    {
+      "hash": "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
+      "path": "mods/placeholder-api-2.4.2+1.21.jar"
+    },
+    {
+      "hash": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
+      "path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar"
+    },
+    {
+      "hash": "849535bb1c7809b0d3adcff85db2d22005ca8329",
+      "path": "mods/geckolib-fabric-1.21.1-4.8.2.jar"
+    },
+    {
+      "hash": "9df3d32fedc89d27e035d67932947a742cabb900",
+      "path": "mods/toneko-fabric-1.7.2.jar"
+    },
+    {
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
+      "path": "log4j2.xml"
+    },
+    {
+      "hash": "76832aa25596a2aa291802332c0cc3c05327b88a",
+      "path": "ctlib/toneko/lang/en_us.json"
+    },
+    {
+      "hash": "ae79f6880dc4c9267942b6031f0d5dc67b57fbca",
+      "path": "ctlib/toneko/lang/zh_cn.json"
+    },
+    {
+      "hash": "113e034a5a013f7cd21389f929fa9a632de1886e",
+      "path": "ctlib/toneko/lang/zh_tw.json"
+    },
+    {
+      "hash": "fca5675f9bf01a7c72a10425a9d10ca45bab356a",
+      "path": "ctlib/toneko/lang/ko_kr.json"
+    },
+    {
+      "hash": "35f38098004cce7dcda0ae1da4c992778967b0d1",
+      "path": "command_history.txt"
+    },
+    {
+      "hash": "1774b6d7a2a778b623523d92d908869559b75ea6",
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID"
+    },
+    {
+      "hash": "2f38c7a35ce67992b3bf66254165454198fa9662",
+      "path": "CustomSkinLoader/CustomSkinLoader.json"
+    },
+    {
+      "hash": "a6d8ec0c147d34914880e7f429eda9c928292b48",
+      "path": "servers.dat_old"
+    }
+  ],
+  "name": "1.21.1-Fabric",
+  "version": "1.0"
+}
